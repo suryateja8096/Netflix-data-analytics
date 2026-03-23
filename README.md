@@ -37,7 +37,7 @@ To build an interactive and user-friendly dashboard
 To extract actionable insights from real-world data
 📷 Dashboard Preview
 
-<img width="1300" height="656" alt="image" src="https://github.com/user-attachments/assets/8c254f76-22b4-41c5-8b5c-e083ebef45f9" />
+<img width="1300" height="656" alt="image" src="https://github.com/user-attachments/assets/8c254f76-22b4-41c5-8b5c-e083ebef45f9" />.
 
 📌 Conclusion
 
